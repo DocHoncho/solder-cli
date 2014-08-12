@@ -4,7 +4,7 @@ import click
 def cli():
     pass
 
-@cli.command()
+@cli.group()
 def modpacks():
     pass
 

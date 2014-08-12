@@ -1,0 +1,9 @@
+solder:
+  database:
+    host: localhost
+    user: solder
+    password: "##b1gIr0n%%"
+    db: solder_db
+  directories:
+    mods: /home/jrm/apps/technic-solder/public/mods
+
